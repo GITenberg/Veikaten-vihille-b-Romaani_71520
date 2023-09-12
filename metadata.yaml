@@ -1,0 +1,24 @@
+_repo: Veikaten-vihille-b-Romaani_71520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terhi, Kaarlo
+    gutenberg_agent_id: '56270'
+    url: http://www.gutenberg.org/2009/agents/56270
+description: ''
+gutenberg_issued: '2023-08-29'
+identifiers:
+  gutenberg: '71520'
+language: fi
+pgterms:marc905: 20220711021401terhi
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Veikaten vihille : $b Romaani'
+url: http://www.gutenberg.org/ebooks/71520
