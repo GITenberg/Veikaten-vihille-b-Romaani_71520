@@ -1,11 +1,16 @@
 _repo: Veikaten-vihille-b-Romaani_71520
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Terhi, Kaarlo
     gutenberg_agent_id: '56270'
     url: http://www.gutenberg.org/2009/agents/56270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71520#Veikaten-vihille-b-Romaani
 gutenberg_issued: '2023-08-29'
 identifiers:
   gutenberg: '71520'
